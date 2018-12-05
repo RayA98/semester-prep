@@ -1,0 +1,22 @@
+{
+  "name": "semester-prep",
+  "version": "1.0.0",
+  "description": "Creator: Ray Ashton\r Name: Semester Prep\r Description: This app will allow students to generate important dates and reminders during the semester. SP will scan syllabi from the user,\r and connect to a Google account to create reminders and dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayA98/semester-prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayA98/semester-prep/issues"
+  },
+  "homepage": "https://github.com/RayA98/semester-prep#readme",
+  "dependencies": {
+    "ionic": "^4.5.0"
+  }
+}
